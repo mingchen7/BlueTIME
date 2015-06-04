@@ -1,0 +1,2 @@
+# Aggregated Link-level travel time saved here
+# Each file stores two weeks historical data ending with the date 'filename'
